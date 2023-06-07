@@ -1766,7 +1766,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00061035156}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 1295.945}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &284240294
@@ -1975,7 +1975,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Lv. 00
+  m_Text: 'Lv. 00 '
 --- !u!222 &344705856
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7367,9 +7367,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "1. \uC720\uD29C\uBE0C \uC8FC\uC2DD+1 / \uD559\uC2B5 +1  / \uBE44\uC6A9
-    0\n2. \uCC45 \uC8FC\uC2DD+3 / \uD559\uC2B5 +3 / \uBE44\uC6A9 0\n3. \uCDE8\uC5C5
-    \uC2A4\uD130\uB514 \uC8FC\uC2DD +1 / \uD559\uC2B5 +1 / \uBE44\uC6A9 2\uB9CC\n4.
-    \uD1A0\uC775\uD559\uC6D0 \uD559\uC2B5 +11 / 20\uB9CC\uC6D0\n\n\uBA39\uACE0\uC0B4\uAE30\n1.
+    0 / \uC720\uD29C\uBE0C \uB3C4\uD2B8\n2. \uCC45 \uC8FC\uC2DD+3 / \uD559\uC2B5
+    +3 / \uBE44\uC6A9 0\n3. \uCDE8\uC5C5 \uC2A4\uD130\uB514 \uC8FC\uC2DD +1 / \uD559\uC2B5
+    +1 / \uBE44\uC6A9 2\uB9CC\n4. \uD1A0\uC775\uD559\uC6D0 \uD559\uC2B5 +11 / 20\uB9CC\uC6D0\n\n\uBA39\uACE0\uC0B4\uAE30\n1.
     \uD398\uC9C0\uC90D\uAE30 3000 /8\uCD08\n2. \uB545\uD30C\uAE30 1000 / 3\uCD08
     \n3. ATM\uC8FC\uBCC0 \uAE30\uC6C3\uAC70\uB9AC\uAE30 1\uB9CC\uC6D0 / 20\uCD08\n4.
     \uC778\uB825\uC0AC\uBB34\uC18C 50000\uC6D0 /90\uCD08\n\n"
@@ -11067,7 +11067,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 2095182966}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.999953
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
