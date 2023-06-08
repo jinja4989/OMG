@@ -26,16 +26,7 @@ public class Item : MonoBehaviour
 
     public void Onclick()
     {
-        switch(data.itemType) {
-            case ItemData.ItemType.Melee:
-            case ItemData.ItemType.Range:
-            break;
-        }
 
         level++;
-
-        if (level == data.damages.Length) {
-            GetComponent<Button>().interactable = false;
-        }
     }
 }
