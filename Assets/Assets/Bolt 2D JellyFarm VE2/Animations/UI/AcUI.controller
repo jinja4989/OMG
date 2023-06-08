@@ -88,7 +88,11 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_Name: Scroll View2
+=======
+  m_Name: Scroll View
+>>>>>>> c0ad71d09f0443f04bd7fce01c749f4b682e2c6a
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
