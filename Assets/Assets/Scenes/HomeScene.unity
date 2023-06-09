@@ -384,7 +384,7 @@ GameObject:
   - component: {fileID: 91009328}
   - component: {fileID: 91009327}
   m_Layer: 5
-  m_Name: Item 1
+  m_Name: Item 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -426,7 +426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab2ea22758b547843a3a0d9526f4c822, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: efbdff7054b605a4c95524aba4037ef0, type: 2}
+  data: {fileID: 11400000, guid: 2aad3acfaaaf633418e048887eddafe2, type: 2}
   level: 0
 --- !u!114 &91009328
 MonoBehaviour:
@@ -7367,9 +7367,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "1. \uC720\uD29C\uBE0C \uC8FC\uC2DD+1 / \uD559\uC2B5 +1  / \uBE44\uC6A9
-    0 / \uC720\uD29C\uBE0C \uB3C4\uD2B8\n2. \uCC45 \uC8FC\uC2DD+3 / \uD559\uC2B5
-    +3 / \uBE44\uC6A9 0\n3. \uCDE8\uC5C5 \uC2A4\uD130\uB514 \uC8FC\uC2DD +1 / \uD559\uC2B5
-    +1 / \uBE44\uC6A9 2\uB9CC\n4. \uD1A0\uC775\uD559\uC6D0 \uD559\uC2B5 +11 / 20\uB9CC\uC6D0\n\n\uBA39\uACE0\uC0B4\uAE30\n1.
+    0\n2. \uCC45 \uC8FC\uC2DD+3 / \uD559\uC2B5 +3 / \uBE44\uC6A9 0\n3. \uCDE8\uC5C5
+    \uC2A4\uD130\uB514 \uC8FC\uC2DD +1 / \uD559\uC2B5 +1 / \uBE44\uC6A9 2\uB9CC\n4.
+    \uD1A0\uC775\uD559\uC6D0 \uD559\uC2B5 +11 / 20\uB9CC\uC6D0\n\n\uBA39\uACE0\uC0B4\uAE30\n1.
     \uD398\uC9C0\uC90D\uAE30 3000 /8\uCD08\n2. \uB545\uD30C\uAE30 1000 / 3\uCD08
     \n3. ATM\uC8FC\uBCC0 \uAE30\uC6C3\uAC70\uB9AC\uAE30 1\uB9CC\uC6D0 / 20\uCD08\n4.
     \uC778\uB825\uC0AC\uBB34\uC18C 50000\uC6D0 /90\uCD08\n\n"
@@ -11067,7 +11067,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 2095182966}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.999953
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
